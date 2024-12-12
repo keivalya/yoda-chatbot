@@ -32,7 +32,7 @@ Step into the galaxy far, far away with **Yoda's Wisdom Chatbot**! Powered by Hu
    ```
 2. Install dependencies:
    ```bash
-   pip install gradio huggingface_hub
+   pip install -r requirements.txt
    ```
 3. Run the app:
    ```bash
