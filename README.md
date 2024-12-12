@@ -27,7 +27,7 @@ Step into the galaxy far, far away with **Yoda's Wisdom Chatbot**! Powered by Hu
 ## ⚡ Quick Start
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/yoda-chatbot.git
+   git clone https://github.com/keivalya/yoda-chatbot.git
    cd yoda-chatbot
    ```
 2. Install dependencies:
